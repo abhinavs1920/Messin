@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877050772371",
+    "project_id": "messin-1aee1",
+    "storage_bucket": "messin-1aee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877050772371:android:07912ab40e5675c9ec0666",
+        "android_client_info": {
+          "package_name": "com.appfree.messin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877050772371-n3jg1gk6gsbgn3nrtgv4prlj1s8brnbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqpvpJkRkMndyzN7iVKKVao-hsdOI4Z9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877050772371-n3jg1gk6gsbgn3nrtgv4prlj1s8brnbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
